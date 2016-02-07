@@ -1,0 +1,24 @@
+{
+  "name": "earlsh-webtest",
+  "version": "1.0.0",
+  "description": "Headless browser tests for earlsh installation.",
+  "main": "null",
+  "dependencies": {
+    "casperjs": "^1.1.0-beta5",
+    "phantomjs": "^2.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/fzuellich/earlsh-webtest.git"
+  },
+  "author": "Ferenc Züllich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fzuellich/earlsh-webtest/issues"
+  },
+  "homepage": "https://github.com/fzuellich/earlsh-webtest#readme"
+}
